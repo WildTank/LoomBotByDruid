@@ -8,7 +8,7 @@ import datetime
 import pyautogui    # probably needs keyboard module
 import pyttsx3
 import pytesseract as tess
-tess.pytesseract.tesseract_cmd = "C:\\PythonStuff\\SupportingPrograms\\Tesseract-OCR\\tesseract.exe"
+tess.pytesseract.tesseract_cmd = "C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
 toplist, winlist = [], []
 
 

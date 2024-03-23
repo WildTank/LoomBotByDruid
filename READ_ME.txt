@@ -13,3 +13,5 @@ Note: x.x.x means the version number (i.e. LoomBotx.x.x -> LoomBot1.5.0)
 7. READ_ME.txt
 8. scraper.py
 9. test.py (only for testing)
+
+https://github.com/UB-Mannheim/tesseract/wiki
